@@ -6,7 +6,7 @@
 
 
 #### 🖥️ my current language:
-[![C](https://img.icons8.com/color/48/c-programming.png)]   [![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)]
+[!(https://img.icons8.com/color/48/c-programming.png)]   [!(https://img.icons8.com/fluency/48/c-plus-plus-logo.png)]
 
 #### 🪛 my favourite tools:
 [![vscode](https://img.icons8.com/badges/48/visual-studio.png)]   [![YTmusic](https://img.icons8.com/fluency/48/youtube-music.png)]   [![git](https://img.icons8.com/material-outlined/48/github.png)]  
