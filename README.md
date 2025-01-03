@@ -2,7 +2,7 @@
 ### 🎓 Student at 42, where I "spawned" after a click on an ad...
 
 #### 🦾 my git stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUpMan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUpMan&layout=compact)   [![TonUpMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUpMan)](https://github.com/TonUpMan/github-readme-stats)
 
 
 #### 🖥️ my current language:
