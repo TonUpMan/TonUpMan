@@ -1,5 +1,5 @@
-## Welcome to my GitHub ! 🖖 
-### 🎓 Student at 42, where I "spawned" after a click on an ad...
+<h1 align="center"> 🖖 Welcome to my GitHub ! 🖖 </h1>
+<h2 align="center"> 🎓 Student at 42, where I "spawned" after a click on an ad... </h2>
 
 #### 🦾 my git stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUpMan&layout=compact)   [![TonUpMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUpMan)](https://github.com/TonUpMan/github-readme-stats)
