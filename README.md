@@ -5,4 +5,4 @@
 ## 🌐 Find me elsewhere:
 - [LinkedIn](https://linkedin.com/in/quentin-devianne-b507ab344)
 - [gmail](qdeviann@student.42angouleme.fr)
-- [![discord](https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg)](https://discord.com/users/381620497148018688)
+- [![(https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg)](https://discord.com/users/381620497148018688)
