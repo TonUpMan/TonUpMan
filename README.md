@@ -1,15 +1,8 @@
-### Welcom to my GitHub ! 👋 ###
+### Welcom to my GitHub ! 🎓 Student at 42, where I "spawned" after a click on an ad...
 
-## 🌟 About:
-- 🎓 Student at 42, where I "spawned" after a click on an ad...
-- 🎵 Music is a big part of my life.
-- 🏍️ Motorbikes are my passion.
-
-## 👨‍🎓 Cursus:
 
 
 ## 🌐 Find me elsewhere:
 - [LinkedIn](https://linkedin.com/in/quentin-devianne-b507ab344)
-
-## 📫 Contact:
-- 💌 **Email** : qdeviann@student.42angouleme.fr
+- [gmail](qdeviann@student.42angouleme.fr)
+- [![discord](https://fr.wikipedia.org/wiki/Fichier:Discord_Logo_sans_texte.svg)](https://discord.com/users/381620497148018688)
