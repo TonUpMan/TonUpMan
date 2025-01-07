@@ -6,10 +6,10 @@
 
 
 #### 🖥️ my current language:
-![C](https://img.icons8.com/color/48/c-programming.png)   ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)   ![VitualB](https://img.icons8.com/color/48/virtualbox.png)
+![C](https://img.icons8.com/color/48/c-programming.png)   ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)      
 
 #### 🪛 my favourite tools:
-![vscode](https://img.icons8.com/badges/48/visual-studio.png)   ![YTmusic](https://img.icons8.com/fluency/48/youtube-music.png)   ![git](https://img.icons8.com/material-rounded/48/FFFFFF/github.png)  
+![vscode](https://img.icons8.com/badges/48/visual-studio.png)   ![YTmusic](https://img.icons8.com/fluency/48/youtube-music.png)   ![git](https://img.icons8.com/material-rounded/48/FFFFFF/github.png)   ![VitualB](https://img.icons8.com/color/48/virtualbox.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)
 
 #### 🌐 Find me elsewhere:
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/quentin-devianne-b507ab344)   [![gmail](https://img.icons8.com/color/48/gmail--v1.png)](mailto:qdeviann@student.42angouleme.fr)   [![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.com/users/381620497148018688)
