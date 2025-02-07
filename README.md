@@ -1,16 +1,18 @@
 <h1 align="center"> 🖖 Welcome to my GitHub ! 🖖 </h1>
-<h2 align="center"> 🎓 Student at 42, where I spawned after a click on an ad... </h2>
+<h2 align="center"> 🎓 I'm Quentin, student at 42, where I spawned after a click on an ad... </h2>
 
 #### 🦾 my git stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUpMan&layout=compact)   [![TonUpMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUpMan)](https://github.com/TonUpMan/github-readme-stats)
 
 
 #### 🖥️ my current language:
-![C](https://img.icons8.com/color/48/c-programming.png)   ![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)      
+![C](https://img.icons8.com/color/36/c-programming.png)   ![C++](https://img.icons8.com/color/36/c-plus-plus-logo.png) ![Javascript](https://img.icons8.com/color/36/javascript--v1.png) ![django](https://img.icons8.com/color/36/django.png) 
 
-#### 🪛 my favourite tools:
-![vscode](https://img.icons8.com/badges/48/visual-studio.png)   ![YTmusic](https://img.icons8.com/fluency/48/youtube-music.png)   ![git](https://img.icons8.com/material-rounded/48/FFFFFF/github.png)   ![VitualB](https://img.icons8.com/color/48/virtualbox.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)
+#### 🪛 my tools:
+![vscode](https://img.icons8.com/badges/36/visual-studio.png) ![git](https://img.icons8.com/material-rounded/36/FFFFFF/github.png)   ![VitualB](https://img.icons8.com/color/36/virtualbox.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/36/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)
 
 #### 🌐 Find me elsewhere:
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/quentin-devianne-b507ab344)   [![gmail](https://img.icons8.com/color/48/gmail--v1.png)](mailto:qdeviann@student.42angouleme.fr)   [![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discord.com/users/381620497148018688)
+[![gmail](https://img.icons8.com/color/36/gmail--v1.png)](mailto:qdeviann@student.42angouleme.fr)   [![Discord](https://img.icons8.com/color/36/discord-logo.png)](https://discord.com/users/381620497148018688)
 
+
+###### Icon by ![icon8](https://img.icons8.com/3d-fluency/24/icons8-new-logo.png)
