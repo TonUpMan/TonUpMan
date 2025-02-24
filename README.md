@@ -20,4 +20,4 @@
 [![gmail](https://img.icons8.com/color/36/gmail--v1.png)](mailto:qdeviann@student.42angouleme.fr)   [![Discord](https://img.icons8.com/color/36/discord-logo.png)](https://discord.com/users/381620497148018688) [![linkedin](https://img.icons8.com/color/36/linkedin.png)](https://www.linkedin.com/in/quentin-devianne-67b75634b/)
 
 
-###### Icon by ![icon8](https://img.icons8.com/3d-fluency/24/icons8-new-logo.png)
+###### Icon by [![icon8](https://img.icons8.com/3d-fluency/24/icons8-new-logo.png)](https://icons8.com)
